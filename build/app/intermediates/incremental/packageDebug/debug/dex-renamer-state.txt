@@ -1,0 +1,4 @@
+#Sun Jun 10 03:59:00 CST 2018
+base.0=/Users/mac/Documents/Programming/workspace/proj1_compnet/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
